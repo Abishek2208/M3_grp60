@@ -15,7 +15,7 @@ A remote keyless system is a device that allows the operation from a distance of
 ## LOW LEVEL REQUIREMENTS
 |LLR ID|DESCRIPTION|
 |:-----|:----------|
-|LLR1||switch press once all led shall on|
+|LLR1|switch press once all led shall on|
 |LLR2|switch press two times all led shall off|
 |LLR3|switch press three times all led shall on in clockwise manner|
 |LLR4|switch press four times all led shall on in anti-clockwise manner |
