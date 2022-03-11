@@ -4,10 +4,10 @@ Remote keyless entry (RKE) is  system which is an electronic accessthat can be c
 A remote keyless system is a device that allows the operation from a distance of vehicle functions by using a unit that sends signals to the car from a wireless transmitter. The device works via a control unit in the vehicle and a transmitter commonly known as a fob or a key fob that has buttons to activate the functions of the system.
 
 ## FEATURES:
-**1.** System automatcially lock the car when blue button is pressed one time.
-**2.** System automatcially unlock the car when blue button is pressed two times.
-**3.** System automatcially activate or deactivate the alarm when blue button is pressed three times.
-**4.** System automatcially approach light when blue button is pressed four times.
+**1.** System automatcially lock the car when blue button is pressed **one time**.
+**2.** System automatcially unlock the car when blue button is pressed **two times**.
+**3.** System automatcially activate or deactivate the alarm when blue button is pressed **three times**.
+**4.** System automatcially approach light when blue button is pressed **four times**.
 
 ## SWOT ANALYSIS
 
