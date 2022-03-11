@@ -7,11 +7,11 @@
 |HLR4|shall print approach light when blue switch press four times|Implemented|
 
 ## LOW LEVEL REQUIREMENTS
-|LLR ID|DESCRIPTION|
-|:-----|:----------|
-|LLR1|switch press once all led shall on|
-|LLR2|switch press two times all led shall off|
-|LLR3|switch press three times all led shall on in clockwise manner|
-|LLR4|switch press four times all led shall on in anti-clockwise manner |
+|LLR ID|DESCRIPTION|STATUS|
+|:-----|:----------|:-----|
+|LLR1|switch press once all led shall on|Implemented|
+|LLR2|switch press two times all led shall off|Implemented|
+|LLR3|switch press three times all led shall on in clockwise manner|Implemented|
+|LLR4|switch press four times all led shall on in anti-clockwise manner |Implemented|
 
 
