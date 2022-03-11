@@ -7,7 +7,7 @@ A remote keyless system is a device that allows the operation from a distance of
 **1.** System automatcially lock the car when blue button is pressed **one time**.\
 **2.** System automatcially unlock the car when blue button is pressed **two times**.\
 **3.** System automatcially activate or deactivate the alarm when blue button is pressed **three times**.\
-**4.** System automatcially approach light when blue button is pressed **four times**.\
+**4.** System automatcially approach light when blue button is pressed **four times**.
 
 ## SWOT ANALYSIS
 
