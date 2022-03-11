@@ -50,4 +50,12 @@ The following are examples of BiCom status information sent to the keyfob: Print
 
 ## Structural Diagram
 ![structural_diagram](https://user-images.githubusercontent.com/46948689/157864951-f4da5098-ea02-4dd2-a808-bc6ca3264293.png)
+## Test Plan
+
+|SL. ID	|  Description	         |        Given input	       |           Experiemented Output    |                    Actual Output	         |      Passed or Not  |                                                   
+|-------|------------------------|---------------------|-----------------------------------|------------------------------------------------|-----------------
+| 01	| Display Window status	 |  Pressing button one time      |	 All LED's ON at same time	        |        All LED's ON at same time	         |               Yes  |
+| 02	| Display Alarm status	 |  Pressing button two times     |	 All LED's OFF at same time	        |       All LED's OFF at same time	         |               Yes    |
+| 03	| Display Car battery info |  Pressing button three times   |	 All LED's ON in clockwise manner       |        All LED's ON in clockwise manne 	 |             Yes    |
+| 04	| Display Door status	 |  Pressing button four times    |	 All LED's ON in anti-clockwise manner	|        All LED's ON in anti-clockwise manner   |	         Yes    |
 
