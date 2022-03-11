@@ -41,3 +41,13 @@ The following are examples of BiCom status information sent to the keyfob: Print
 # 4W's and 1H
 ![5w](https://user-images.githubusercontent.com/46948689/157864263-a657a3b1-d2a8-4f24-a035-f4f2c81d1dd8.jpg) 
 
+## High Level Block Diagram
+
+![high_level_behavioural](https://user-images.githubusercontent.com/46948689/157864728-f4f65e49-d2f9-4f0d-8943-1f7058e0ac05.png)
+
+## Low Level Block Diagram
+![low_level_behavourial](https://user-images.githubusercontent.com/46948689/157864810-cb5238ab-b04d-4476-a443-b793c177a025.png)
+
+## Structural Diagram
+![structural_diagram](https://user-images.githubusercontent.com/46948689/157864951-f4da5098-ea02-4dd2-a808-bc6ca3264293.png)
+
