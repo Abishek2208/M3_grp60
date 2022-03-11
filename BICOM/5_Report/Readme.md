@@ -59,6 +59,8 @@ The following are examples of BiCom status information sent to the keyfob: Print
 | 03	| Display Car battery info |  Pressing button three times   |	 All LED's ON in clockwise manner       |        All LED's ON in clockwise manne 	 |             Yes    |
 | 04	| Display Door status	 |  Pressing button four times    |	 All LED's ON in anti-clockwise manner	|        All LED's ON in anti-clockwise manner   |	         Yes    |
 
+![SCREENSHOT](https://user-images.githubusercontent.com/98824204/157932796-938daccd-e629-4a1f-9efe-bbe7b229fc6b.jpg)
+
 ## Applications
 Other uses for the BiCom system include
 
