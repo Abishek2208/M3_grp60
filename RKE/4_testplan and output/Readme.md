@@ -1,4 +1,4 @@
-## HIGH LEVEL REQUIREMENTS
+## HIGH LEVEL TESTPLAN
 |HLR ID|DESCRIPTION|STATUS|
 |:-----|:----------|:-----|
 |HLR1|shall print lock when blue switch press once|Implemented|
@@ -6,7 +6,7 @@
 |HLR3|shall print alarm activation/deactivation when blue switch press three times|Implemented|
 |HLR4|shall print approach light when blue switch press four times|Implemented|
 
-## LOW LEVEL REQUIREMENTS
+## LOW LEVEL TESTPLAN
 |LLR ID|DESCRIPTION|STATUS|
 |:-----|:----------|:-----|
 |LLR1|switch press once all led shall on|Implemented|
