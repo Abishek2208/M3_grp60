@@ -59,3 +59,12 @@ The following are examples of BiCom status information sent to the keyfob: Print
 | 03	| Display Car battery info |  Pressing button three times   |	 All LED's ON in clockwise manner       |        All LED's ON in clockwise manne 	 |             Yes    |
 | 04	| Display Door status	 |  Pressing button four times    |	 All LED's ON in anti-clockwise manner	|        All LED's ON in anti-clockwise manner   |	         Yes    |
 
+## Applications
+Other uses for the BiCom system include
+
+* Sliding roofs, sliding doors, and tailgates are all more convenient to open and close.
+
+* For further security, the key has a "emergency button" built in.
+
+* At the touch of a button, it activates an audio and visual alarm in the vehicle.
+
