@@ -43,6 +43,8 @@ Implementing the Remote keyless entry (RKE) system to unlock/lock the functionin
 |LLR3|switch press three times all led shall on in clockwise manner|
 |LLR4|switch press four times all led shall on in anti-clockwise manner |
 
+![floWchrt drawio](https://user-images.githubusercontent.com/99973003/157832253-ca4f8d06-2935-4cfe-8f4d-95feeaa61432.png)
+
 ## HIGH LEVEL TESTPLAN
 |HLR ID|DESCRIPTION|STATUS|
 |:-----|:----------|:-----|
